@@ -10,13 +10,13 @@ This project simulates Tier 1 IT support ticket resolution using a ServiceNow Pe
 ## 🖼️ Screenshots
 
 ### Sample Ticket Creation
-![Ticket Creation](screenshots/ticket_creation.png)
+![Ticket Creation](all_tickets.png)
 
 ### Resolved Incident
-![Resolved Ticket](screenshots/ticket_resolved.png)
+![Resolved Ticket](.png)
 
 ### SLA Metrics
-![SLA View](screenshots/sla_metrics.png)
+![SLA View](.png)
 
 ## 📄 Skills Used
 - ITIL Concepts
